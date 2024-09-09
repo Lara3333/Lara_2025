@@ -48,7 +48,7 @@ Flags are made using the Wikipedia site and JavaScript
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hi", "description": "California - where I live right now"},
         {"flag": "b/ba/Flag_of_Germany.svg", "greeting": "Hallo", "description": "Germany - 13 years"},
-        {"flag": "9/9c/Flag_of_Denmark.svg", "greeting": "Alright mate", "description": "Denmark - where my relatives live"},
+        {"flag": "9/9c/Flag_of_Denmark.svg", "greeting": "Hej", "description": "Denmark - where my relatives live"},
         {"flag": "b/bf/Flag_of_Bosnia_and_Herzegovina.svg", "greeting": "Ćao", "description": "Bosnia and Herzegovina - where my parents are originally from"},
     ]; 
     
@@ -83,10 +83,26 @@ Flags are made using the Wikipedia site and JavaScript
     }
 </script>
 
-## Career/Education Recap
+## Education Recap
 
-Currently a student at Del Norte HS.
+Currently I am a Freshman at Del Norte HS.
 - I used to go to a danish elementary school, called Oksevejns Skole (SH, Germany)
 - In second grade I switched to a german school, called UNESCO-Projektschule Flensburg (SH,Germany)
 - After graduating elementary school I went to a Gymnasium, called Goethe Schule Flensburg (SH,Germany)
 - When I moved to the US I graduated middle school at Oak Valley Middle School (CA)
+
+### Some more facts about me
+- I am fluent in four different languages including English, German, Danish, Bosnian/Croatian/Serbian
+- My family is pretty big since I have 4 younger siblings.
+- During my free time I spend time with my siblings, play Volleyball, read, do gymnastics, draw and play the piano
+
+<comment>
+Gallery of Pics, scroll to the right for more ...
+</comment>
+<div class="image-gallery">
+  <img src="{{site.baseurl}}/images/about/IMG_3913.heic" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/C3BB6740-59FC-4445-BEC2-4F256363FB58.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/IMG_3404.PNG" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/IMG_3257.HEIC" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/IMG_2828.PNG" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/2ab5473e-dbfb-41b2-91c7-184135d8658c.jpg" alt="Image 1">
