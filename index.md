@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Student Home
+title: student home
 description: Home Page
 hide: true
 ---
 
-My journey starts here - Kickin' Projects 2.3
+{% include nav/home.html %}
