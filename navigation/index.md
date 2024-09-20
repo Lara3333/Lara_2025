@@ -1,8 +1,10 @@
 ---
 layout: base
-title: student home
+title: Student Home
 description: Home Page
 hide: true
 ---
 
 {% include nav/home.html %}
+
+# Welcome to my Home Page
