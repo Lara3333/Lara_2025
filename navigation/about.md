@@ -106,3 +106,14 @@ Gallery of Pics, scroll to the right for more ...
   <img src="{{site.baseurl}}/images/about/IMG_3257.HEIC" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/IMG_2828.PNG" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/2ab5473e-dbfb-41b2-91c7-184135d8658c.jpg" alt="Image 1">
+
+
+<!-- from https://github.com/utterance/utterances -->
+<script src="https://utteranc.es/client.js"
+        repo="{{ site.github_username }}/{{ site.github_repo | default: site.baseurl | remove: "/" }}"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
