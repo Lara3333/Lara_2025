@@ -7,4 +7,3 @@ hide: true
 
 {% include nav/home.html %}
 
-# Welcome to my Home Page
