@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: post
 title: Student Home
 description: Home Page
 hide: true
@@ -7,5 +7,9 @@ hide: true
 
 {% include nav/home.html %}
 
+# Home Page
 
-### Title
+- ok
+- asfgf
+
+…{% include utterances.html %}
