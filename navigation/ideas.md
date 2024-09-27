@@ -1,1 +1,4 @@
-## Ideas
+---
+title: Ideas
+---
+jhbjb
