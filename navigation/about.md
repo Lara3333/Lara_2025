@@ -96,16 +96,5 @@ Currently I am a Freshman at Del Norte HS.
 - My family is pretty big since I have 4 younger siblings.
 - During my free time I spend time with my siblings, play Volleyball, read, do gymnastics, draw and play the piano
 
-<comment>
-Gallery of Pics, scroll to the right for more ...
-</comment>
-<div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/IMG_3913.heic" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/C3BB6740-59FC-4445-BEC2-4F256363FB58.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/IMG_3404.PNG" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/IMG_3257.HEIC" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/IMG_2828.PNG" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/2ab5473e-dbfb-41b2-91c7-184135d8658c.jpg" alt="Image 1">
-
 
 …{% include utterances.html %}
