@@ -7,9 +7,4 @@ hide: true
 
 {% include nav/home.html %}
 
-# Home Page
-
-- ok
-- asfgf
-
-…{% include utterances.html %}
+{% include utterances.html %}

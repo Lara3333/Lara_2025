@@ -96,5 +96,4 @@ Currently I am a Freshman at Del Norte HS.
 - My family is pretty big since I have 4 younger siblings.
 - During my free time I spend time with my siblings, play Volleyball, read, do gymnastics, draw and play the piano
 
-
-…{% include utterances.html %}
+{% include utterances.html %}
