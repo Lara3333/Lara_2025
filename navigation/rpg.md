@@ -42,6 +42,7 @@ permalink: /rpg/
         left: {row: 1, start: 0, columns: 3 },  // 2nd row
         right: {row: 2, start: 0, columns: 3 }, // 3rd row
         up: {row: 3, start: 0, columns: 3 },    // 4th row
+        position: {x: 0, y: canvas.height - 256}  // Left lower corner
     };
 
     const fish = {src: sprite_src_fish, data: sprite_data_fish};
