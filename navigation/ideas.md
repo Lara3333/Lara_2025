@@ -67,7 +67,7 @@ Here are some of the games I've played recently:
 - DDLC (Overrated, I expected more)
 - Omori (Good, I expected it to be sadder though, also something about the art style is wrong, Idk what though)
 - Roblox (My sister made me play DTI, Doors, the Mimic and MM2 and so on👹)
-- Geometry Dash (Idk if this really counts, sice it's a mobile game??? Anyways, I have a bet with my brother that he will give me 100 $ if I beat the last Level. I am well aware that he doesn't have that much, but I still want to prove him wrong hehe)
+- Geometry Dash (Idk if this really counts, since it's a mobile game??? Anyways, I have a bet with my brother that he will give me 100 $ if I beat the last Level. I am well aware that he doesn't have that much, but I still want to prove him wrong hehe)
 
 ![MARI NOOOO](https://github.com/user-attachments/assets/d51a95ca-93d2-4f29-82c6-ac0fe89b8788)
 
