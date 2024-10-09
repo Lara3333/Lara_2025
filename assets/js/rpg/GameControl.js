@@ -1,7 +1,7 @@
 import GameEnv from './GameEnv.js';
 import Background from './Background.js';
-import Fish from './PlayerFish.js';
-import Turtle from './PlayerTurtle.js';
+import Fish from './PlayerOne.js';
+import Turtle from './PlayerTwo.js';
 
 /**
  * The GameControl object manages the game.
