@@ -71,6 +71,6 @@ Here are some of the games I've played recently:
 
 ![MARI NOOOO](https://github.com/user-attachments/assets/d51a95ca-93d2-4f29-82c6-ac0fe89b8788)
 
->Overall, I really like games with nice visuals, since I am an artist and I therefore value it a lot. Over the course of the last year, I've also really started to take a liking towards RPG games, since I like interesting stories and seeing different outcomes and endings to them.🥰
+>Overall, I really like games with nice visuals, since I am an artist and I therefore value it a lot. On top of that, over the course of the last year, I've also really started to take a liking towards RPG games, since I like interesting stories and seeing different outcomes and endings to them.🥰
 
 {% include utterances.html %}
