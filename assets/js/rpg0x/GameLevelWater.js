@@ -4,7 +4,7 @@ import Background from './Background.js';
 import PlayerOne from './PlayerOne.js';
 import PlayerTwo from './PlayerTwo.js';
 import NPC from './NPC.js';
-import NPC2 from './NPC2.js';
+import NPC2 from './NPC2,js';
 //import Goomba from './EnemyGoomba.js';
 //import Coin from './Coin.js';
 
@@ -74,18 +74,17 @@ class GameLevelWater {
         down: {row: 0, start: 9, columns: 3 },  // This is the stationary npc, down is default 
     };
 
-     // NPC sprite data (red fish)
-     const sprite_src_redfish = path + "/images/rpg/fishies.png";
-     const npcWidth = 384
-     const npcHeight = 256
-     const sprite_data_redfish = {
+     // NPC2 sprite data (fish2)
+     const sprite_src_fish2 = path + "/images/rpg/fishies.png";
+     const sprite_data_fish2 = {
          name: 'npc2',
-         src: sprite_src_redfish,
+         src: sprite_src_fish2,
          SCALE_FACTOR: 16,  // Adjust this based on your scaling needs
          ANIMATION_RATE: 50,
-         INIT_POSITION: { x: (width - npcWidth), y: (height - npcHeight)},
+         pixels: {height: 256, width: 384},
+         INIT_POSITION: { x: (width /3), y: (height /3)},
          orientation: {rows: 8, columns: 12 },
-         down: {row: 4, start: 6, columns: 3 },  // This is the stationary npc, down is default 
+         down: {row: 0, start: 9, columns: 3 },  // This is the stationary npc, down is default 
      };
 
     // List of objects defnitions for this level
@@ -94,7 +93,7 @@ class GameLevelWater {
       { class: PlayerOne, data: sprite_data_turtle },
       { class: PlayerTwo, data: sprite_data_fish },
       { class: NPC, data: sprite_data_frog },
-      { class: NPC2, data: sprite_data_redfish }
+      { class: NPC2, data: sprite_data_fish2 },
     ];
   }
 

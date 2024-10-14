@@ -22,9 +22,10 @@ plugins:
 header_pages:
   - navigation/blog.md
   - navigation/search.md
-  - navigation/rpg.md
+  - navigation/rpg2x.md
   - navigation/about.md
   - README4YML.md
   - navigation/ideas.md
   - navigation/snake.md
   - navigation/ideation.md
+  - navigation/rpg0x.md
