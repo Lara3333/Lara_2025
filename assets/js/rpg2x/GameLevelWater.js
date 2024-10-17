@@ -76,16 +76,15 @@ class GameLevelWater {
 
      // NPC sprite data (red fish)
      const sprite_src_redfish = path + "/images/rpg/fishies.png";
-     const npcWidth = 384
-     const npcHeight = 256
      const sprite_data_redfish = {
          name: 'npc2',
          src: sprite_src_redfish,
          SCALE_FACTOR: 16,  // Adjust this based on your scaling needs
          ANIMATION_RATE: 50,
-         INIT_POSITION: { x: (width - npcWidth), y: (height - npcHeight)},
+         pixels: {height: 256, width: 384},
+         INIT_POSITION: { x: width - (width/3), y: height / 2},
          orientation: {rows: 8, columns: 12 },
-         down: {row: 4, start: 6, columns: 3 },  // This is the stationary npc, down is default 
+         down: {row: 5, start: 6, columns: 3 },  // This is the stationary npc, down is default 
      };
 
     // List of objects defnitions for this level

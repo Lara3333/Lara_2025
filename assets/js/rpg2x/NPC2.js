@@ -1,4 +1,4 @@
-import NPC from './NPC'
+import NPC from './NPC.js'
 
 class NPC2 extends NPC {
     constructor(data = null) {
