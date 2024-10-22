@@ -61,7 +61,7 @@ Rank to Ratio, rank is an integer
 
 | **Assignment**             | **Points**    | **Grade** |
 |----------------------------|---------------|-----------|
-| JSON Object & Arrays       | 1             |     0.85      | 
+| JSON Object & Arrays       | 1             |     0.9      | 
 
 JSON Object: A JSON Object is a way to store and organise data. They use Key and value pairs for this, a little different from arrays, which are structured differently. Ex For JSON Object:<img width="332" alt="Screenshot 2024-10-09 at 22 52 37" src="https://github.com/user-attachments/assets/e53905ee-d5ea-4fb0-b72d-8907cf36954f">
 
@@ -76,14 +76,19 @@ Here are some examples for Data types: Numbers, strings, booleans, null, undefin
 | Square and Red Squares     | 2             |    .90     | 
 
 <img width="1083" alt="Screenshot 2024-10-08 at 11 34 38" src="https://github.com/user-attachments/assets/6e91e524-a2af-437a-ad64-5903034b6c2b"> |
-| Game Work                  | 2             |    0.9       |
 
-Currently i'm working on adding objects such as corals to the RPG. This is what I have so far.<img width="1417" alt="Screenshot 2024-10-09 at 23 01 55" src="https://github.com/user-attachments/assets/a75673a4-82d2-410d-9e2f-f2e9eb7adeb0">
-| Total                      | 7             |      4.45 : 5 = 0.89     |
+| Game work, Hack Usage      | 1            | .85       |
+
+I added an NPC to my RPG and am currently working on adding dialogue to it so that you can ask it questions etc.<img width="1425" alt="Screenshot 2024-10-22 at 12 32 47" src="https://github.com/user-attachments/assets/b55983d0-505c-4469-9233-2f31b3414cf5">
+
+
+| Web Site: Home Page, Ideas | 1              |     0.9     | 
+<img width="1425" alt="Screenshot 2024-10-22 at 12 32 09" src="https://github.com/user-attachments/assets/1b416bf2-2173-4050-a737-a4ad98332ef9">
+| Total                      | 7             |      5.35 : 6 = 0.89     |
 
 | **Skill**                  | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
-| Work Habits (Analytics)    | 1             |     0.85      | <img width="990" alt="Screenshot 2024-10-09 at 15 24 11" src="https://github.com/user-attachments/assets/2364952c-40e1-48f0-923d-be17eaacda63">  Definitely still room for more. (Btw in case you're wondering why I didn't screenshot my analytics, it's because it says I only have 4 commits and I am 100% sure that is not the case|
+| Work Habits (Analytics)    | 1             |     0.85      | <img width="488" alt="Screenshot 2024-10-22 at 12 38 51" src="https://github.com/user-attachments/assets/64ef2f50-8adf-4b7b-9557-5982c275e8e5">  Definitely still room for more. (Btw in case you're wondering why I didn't screenshot my analytics, it's because it says I only have 4 commits and I am 100% sure that is not the case|
 | Advocacy                   | 1             |   0.9  |   I always try to engage in the task and participate as well as possible.           |
 | Beyond Perfunctory Memory  | 1             |      .85     |   I always, try to think further and connect some dots when learning new things,  however I could definitely still improve there, which is why I gave myself a solid grade.          | 
 | Total                      | 3             |   0.87        |              |
