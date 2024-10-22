@@ -84,6 +84,7 @@ I added an NPC to my RPG and am currently working on adding dialogue to it so th
 
 | Web Site: Home Page, Ideas | 1              |     0.9     | 
 <img width="1425" alt="Screenshot 2024-10-22 at 12 32 09" src="https://github.com/user-attachments/assets/1b416bf2-2173-4050-a737-a4ad98332ef9">
+
 | Total                      | 7             |      5.35 : 6 = 0.89     |
 
 | **Skill**                  | **Points**    | **Grade** | **Evidence** |
