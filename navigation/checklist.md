@@ -88,4 +88,6 @@ Currently i'm working on adding objects such as corals to the RPG. This is what 
 | Beyond Perfunctory Memory  | 1             |      .85     |   I always, try to think further and connect some dots when learning new things,  however I could definitely still improve there, which is why I gave myself a solid grade.          | 
 | Total                      | 3             |   0.87        |              |
 
+
+
 {% include utterances.html %}
