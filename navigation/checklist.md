@@ -77,6 +77,8 @@ Here are some examples for Data types: Numbers, strings, booleans, null, undefin
 
 <img width="1083" alt="Screenshot 2024-10-08 at 11 34 38" src="https://github.com/user-attachments/assets/6e91e524-a2af-437a-ad64-5903034b6c2b"> |
 
+| For Loops using Sprites    | 1             | .85         |
+
 | Game work, Hack Usage      | 1            | .85       |
 
 I added an NPC to my RPG and am currently working on adding dialogue to it so that you can ask it questions etc.<img width="1425" alt="Screenshot 2024-10-22 at 12 32 47" src="https://github.com/user-attachments/assets/b55983d0-505c-4469-9233-2f31b3414cf5">
