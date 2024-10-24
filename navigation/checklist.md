@@ -81,7 +81,6 @@ Here are some examples for Data types: Numbers, strings, booleans, null, undefin
 
 I gave myself a 0.9 because I did the hacks and on the first one I also changed the colour of the text.<img width="1003" alt="Screenshot 2024-10-24 at 13 10 41" src="https://github.com/user-attachments/assets/05c6addb-6e47-4b01-a90f-2b52d457ed75"><img width="1003" alt="Screenshot 2024-10-24 at 13 10 47" src="https://github.com/user-attachments/assets/ffb10f1e-8cd1-4b6d-b2b6-1bb6bfee8c58"><img width="1003" alt="Screenshot 2024-10-24 at 13 10 58" src="https://github.com/user-attachments/assets/def91b71-1125-45cb-bcca-cc7d6d80ba66"><img width="1003" alt="Screenshot 2024-10-24 at 13 17 40" src="https://github.com/user-attachments/assets/4e132d0a-9927-4d7d-b907-6c1289bee814">
 
-
 | Game work, Hack Usage      | 1            | .85       |
 
 I added an NPC to my RPG and am currently working on adding dialogue to it so that you can ask it questions etc.<img width="1425" alt="Screenshot 2024-10-22 at 12 32 47" src="https://github.com/user-attachments/assets/b55983d0-505c-4469-9233-2f31b3414cf5">
