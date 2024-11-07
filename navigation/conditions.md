@@ -1,4 +1,4 @@
-### Condtions
+### Conditions Lesson
 
 > Here is what I have learned about Conditions and the hacks and homework I've done.
 
