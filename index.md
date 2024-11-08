@@ -188,3 +188,5 @@ comments: true
     sprite.style.transform = `scale(${0.2 * scale})`;
     mario.startResting();
   });
+
+{% include utterances.html %}
