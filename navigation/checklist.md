@@ -1,5 +1,6 @@
 ---
 title: Checklists in my CSSE classes
+comments: true
 ---
 
 # Sprint 1 Self Grading Checklist
@@ -103,19 +104,17 @@ I added an NPC to my RPG and am currently working on adding dialogue to it so th
 
 | **Assignment**                | **Points**    | **Grade** | **Evidence** |
 |-------------------------------|---------------|-----------|--------------|
-| Sprint 1-3 Review Ticket      | 3             |           |              |
-| Sprint 3 Team Issue(s)/Plan   | 2             |           |              |
-| Beginning-2-End Contribution  | 2             |           |              |
-| N@tM Team Presentation        | 2             |           |              |
-| Live Review Indi Demo         | 1             |           |              |
-| **Total**                     | 10            |           |              |
+| Sprint 1-3 Review Ticket      | 3             |           3|<img width="1106" alt="sprint2screenshot" src="https://github.com/user-attachments/assets/ad1bda5d-338a-4cee-b1b5-64433c821c96"><img width="1106" alt="sprint1screenshot" src="https://github.com/user-attachments/assets/bb11d590-d99f-4da4-ac08-6104a9d155e9">|
+| Sprint 3 Team Issue(s)/Plan   | 2             |         2 |             <img width="1359" alt="Screenshot 2024-11-12 at 10 20 19" src="https://github.com/user-attachments/assets/0d4ef7ae-805f-4953-a941-15bc86bbd1e1">|
+| Beginning-2-End Contribution  | 2             |       2   |             <img width="968" alt="Screenshot 2024-11-12 at 10 29 35" src="https://github.com/user-attachments/assets/abcec82c-ea57-41c3-ac9f-aa9964eaa7eb"><img width="701" alt="Screenshot 2024-11-12 at 10 25 15" src="https://github.com/user-attachments/assets/55b0938b-472c-4ee1-99ff-91e388e6532f">|
+| N@tM Team Presentation        | 2             |    1    |           <img width="1164" alt="Screenshot 2024-11-12 at 10 17 39" src="https://github.com/user-attachments/assets/99c2bf7c-feda-4e98-8462-36f2c6bebe18">|
+| Live Review Indi Demo         | 1             |          1|             <img width="411" alt="Screenshot 2024-11-12 at 10 23 23" src="https://github.com/user-attachments/assets/4dae5639-4f96-4f66-b191-781d81ea1e6b"><img width="843" alt="Screenshot 2024-11-12 at 10 24 19" src="https://github.com/user-attachments/assets/1f06c2e5-98b3-4030-8873-59750e5d9e93"><img width="701" alt="Screenshot 2024-11-12 at 10 28 22" src="https://github.com/user-attachments/assets/85e8a670-3546-42aa-b795-397d0594a8ad"><img width="701" alt="Screenshot 2024-11-12 at 10 28 09" src="https://github.com/user-attachments/assets/417f6e32-ff02-40ba-aefd-52b3fe6691b2"><img width="701" alt="Screenshot 2024-11-12 at 10 26 52" src="https://github.com/user-attachments/assets/d80f2500-44c6-4509-8fcc-4d397c8a9d7c"><img width="701" alt="Screenshot 2024-11-12 at 10 26 45" src="https://github.com/user-attachments/assets/e8599568-8da0-4f33-a3a3-96eac0076d32">|
+| **Total**                     | 10            |         9  |              Overall, I gave myself a 9/10, because I think I understood everything pretty well and participated a lot as well. However I'm sure I wasn't *perfect* and there is definitely room for improvement.|
 
 | **Skill**                  | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
-| Work Habits (Analytics)    | 1             |           |              |
-| Evidence of Role in Team   | 1             |           |              | 
-| Function / Purpose Design  | 1             |           |              | 
-| Live Review                | 2             |           |              | 
-| **Total**                  | 5             |           |              |
-
-{% include utterances.html %}
+| Work Habits (Analytics)    | 1             |           1|      <img width="411" alt="Screenshot 2024-11-12 at 10 23 23" src="https://github.com/user-attachments/assets/4dae5639-4f96-4f66-b191-781d81ea1e6b">        |
+| Evidence of Role in Team   | 1             |           1|            <img width="968" alt="Screenshot 2024-11-12 at 10 29 35" src="https://github.com/user-attachments/assets/abcec82c-ea57-41c3-ac9f-aa9964eaa7eb"><img width="701" alt="Screenshot 2024-11-12 at 10 25 15" src="https://github.com/user-attachments/assets/55b0938b-472c-4ee1-99ff-91e388e6532f">| 
+| Function / Purpose Design  | 1             |           1|              The purpose of my part in the lesson was to introduce nested condtionals by first refreshing everyone's memory on conditionals, then elaborating adding a new concept and lastly test everyone's knowledge and understanding with a popcorn hack. Lastly I also discussed how this could be used in their RPG, because first of all, it helps them connect new concepts to real examples and second of all, it could give them more ideas to improve their RPG.| 
+| Live Review                | 2             |           2|              Similar to the Live Indi Demo, overall, I've worked on the introduction, popcornhack one and ideas for usage in the RPG.| 
+| **Total**                  | 5             |          4.5|              Overall, I gave myself a 4.5/5 because I believe I participated well and this project and met all the requiremnts.The only issue I had was messing up the pull request, causing me to finish it after Tuesday (aka the due date for the pull request), which is why I subtracted 0.5 points off of my total score.|
