@@ -67,3 +67,7 @@ title: "Student Panel Blog"
 - Be engaged
 - Learn topics to understand the code and what is going on.
 - ask for help
+
+> Here is an image of the event :D
+
+![WhatsApp Image 2025-01-13 at 11 22 22 AM](https://github.com/user-attachments/assets/1d446c58-8117-490a-855e-4196504c33df)
