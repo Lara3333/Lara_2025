@@ -3,10 +3,6 @@ layout: post
 title: "Student Panel Blog"
 ---
 
-### Student Panel CompSci
-
-## Student Panel CompSci
-
 - find what I need to apply to myself
 - a lot of people started with no experience
 - CS is relevant today, especially in San Diego
