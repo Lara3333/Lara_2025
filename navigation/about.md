@@ -6,7 +6,7 @@ permalink: /about/
 
 
 ## As a conversation Starter 
-Here are some places I have lived.
+Here are some places I am from.
 
 <comment>
 Flags are made using the Wikipedia site and JavaScript
