@@ -1,11 +1,11 @@
 ---
 title: "My Platformer4x Blog
 ---
+### Coding Blog
 
 ### Week 18
 I finished up my commits and pull requests for the helpsystem.
 
-<img width="1380" alt="Image" src="https://github.com/user-attachments/assets/9057c6b0-2311-45ab-9dc9-fac4d582ff26" />
 <img width="1380" alt="Image" src="https://github.com/user-attachments/assets/9057c6b0-2311-45ab-9dc9-fac4d582ff26" />
 
 ## Week 19
@@ -46,3 +46,27 @@ We had a tech talk about "is a" or "has a" to get a better understanding about h
 Tuesday, 04/02/2025
 
 I finished the draw.io diagram and tried helping Avantika with adding the enemies
+
+Wednesday, 05/02/2025
+
+Avantika and I got reviewedm by Mr. Mortensen
+
+Thursday, 06/02/2025
+
+We continued our at hours of code, currently being at around 2. Our goal was to finish adding the spider and making it move in a certain range.
+
+Monday, 10/02/2025
+
+Tech Talk about animation (I was absent though, so I didn't really do anything)
+
+Tuesday, 12/02/2025
+
+Caught up on the lesson during office hours and read through the tech talk about animation.
+During Class we had a Tech Talk and then after that we looked at the code in Platformer4x and dragged the file for EnemyGoomba and started adjusting it
+
+Wednesday, 12/02/2025
+
+
+Thursday 13/02/2025
+
+We had a tech talk about SRP, we also started cleaning up the files in our game.
