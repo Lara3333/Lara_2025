@@ -93,7 +93,21 @@ export class Spider extends Character {
     }
     
     // Player action on collisions
-    collisionAction() {
+       // Player action on collisions
+       collisionAction() {
+        if (this.collisionData.touchPoints.other.id === "player") {
+            // Player dies upon collision with spider
+            GameEnv.player.isAlive = false;
+            GameEnv.playSound("playerDeath"); // Play death sound if available
+
+            console.log("Game Over! The player has died.");
+
+            // Call a game-over function if it exists
+            if (typeof GameEnv.gameOver === "function") {
+                GameEnv.gameOver();
+            }
+        }
+
         if (this.collisionData.touchPoints.other.id === "finishline") {
             if (this.collisionData.touchPoints.other.left || this.collisionData.touchPoints.other.right) {
                 this.speed = -this.speed;            
@@ -105,6 +119,7 @@ export class Spider extends Character {
                 this.speed = -this.speed;      
             }
         }
+
         if (this.collisionData.touchPoints.other.id === "jumpPlatform") {
             if (this.collisionData.touchPoints.other.left || this.collisionData.touchPoints.other.right) {
                 this.speed = -this.speed;            
