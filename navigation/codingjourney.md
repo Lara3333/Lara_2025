@@ -70,3 +70,7 @@ Wednesday, 12/02/2025
 Thursday 13/02/2025
 
 We had a tech talk about SRP, we also started cleaning up the files in our game.
+
+Friday, 14/02/25
+
+I wrappe
