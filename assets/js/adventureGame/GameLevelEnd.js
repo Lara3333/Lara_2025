@@ -16,7 +16,7 @@ class GameLevelEnd {
     const image_src_end = path + "/images/gamify/end.png"; // be sure to include the path
     const image_data_end = {
         name: 'end',
-        greeting: "Congratulations! You've completed the desert challenge. Here's your reward!",
+        greeting: "Congratulations! You've completed the cave challenge. Here's your reward!",
         src: image_src_end,
         pixels: {height: 580, width: 1038}
     };

@@ -7,18 +7,18 @@ import Spider from './Spider.js';
 import Exit from './Exit.js';
 //import Spider from './Spider.js';
 
-class GameLevelDesert {
+class GameLevelCave {
   constructor(path, canvas) {  // Accept `canvas` as an argument
     let width = GameEnv.innerWidth;
     let height = GameEnv.innerHeight;
 
 
     // Background data
-    const image_src_desert = path + "/images/gamify/cave.png"; // be sure to include the path
-    const image_data_desert = {
-        name: 'Desert',
+    const image_src_cave = path + "/images/gamify/cave.png"; // be sure to include the path
+    const image_data_cave = {
+        name: 'Cave',
         greeting: "Welcome to the cave!  It is wet and must!",
-        src: image_src_desert,
+        src: image_src_cave,
         pixels: {height: 1062, width: 1867}
     };
 
@@ -29,7 +29,7 @@ class GameLevelDesert {
     const sprite_data_chillguy = {
       id: 'Chill Guy',
       name: 'mainplayer',
-      greeting: "Hi I am Chill Guy, the desert wanderer. I am looking for wisdom and adventure!",
+      greeting: "Hi I am Chill Guy, the cave wanderer. I am looking for wisdom and adventure!",
       src: sprite_src_chillguy,
       SCALE_FACTOR: CHILLGUY_SCALE_FACTOR,
       STEP_FACTOR: 1000,
@@ -120,7 +120,7 @@ class GameLevelDesert {
 
     // Objects list
     this.objects = [
-      { class: Background, data: image_data_desert },
+      { class: Background, data: image_data_cave },
       { class: Player, data: sprite_data_chillguy },
       { class: Bat, data: sprite_data_bat },
       { class: Spider, data: sprite_data_spider },
@@ -138,4 +138,4 @@ class GameLevelDesert {
   }
 }
 
-export default GameLevelDesert;
+export default GameLevelCave;
