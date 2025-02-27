@@ -5,7 +5,7 @@ import Character from './Character.js';
 import Player from './Player.js';
 import Exit from './Exit.js';
 
-class GameLevelWater {
+class GameLevelNature {
   constructor(path) {
     const header = document.querySelector('header');
     const footer = document.querySelector('footer');
@@ -15,10 +15,10 @@ class GameLevelWater {
     let height = GameEnv.innerHeight;
 
     // Background data
-    const image_src_water = path + "/images/gamify/End.png";
-    const image_data_water = {
-        id: 'Water',
-        src: image_src_water,
+    const image_src_nature = path + "/images/gamify/End.png";
+    const image_data_nature = {
+        id: 'Nature',
+        src: image_src_nature,
         pixels: {height: 597, width: 340}
     };
 
@@ -26,7 +26,7 @@ class GameLevelWater {
     const OCTOPUS_SCALE_FACTOR = 10;
     const sprite_data_octopus = {
         id: 'Octopus',
-        greeting: "Hi I am Octopus, the water wanderer. I am looking for wisdome and adventure!",
+        greeting: "Hi I am Octopus, the nature wanderer. I am looking for wisdome and adventure!",
         src: sprite_src_octopus,
         SCALE_FACTOR: OCTOPUS_SCALE_FACTOR,
         STEP_FACTOR: 1000,
@@ -102,7 +102,7 @@ class GameLevelWater {
 
     // List of objects definitions for this level
     this.objects = [
-      { class: Background, data: image_data_water },
+      { class: Background, data: image_data_nature },
       { class: Player, data: sprite_data_octopus },
       { class: Npc, data: sprite_data_animwizard },
       { class: Exit, data: sprite_data_exit },
@@ -110,4 +110,4 @@ class GameLevelWater {
   }
 }
 
-export default GameLevelWater;
+export default GameLevelNature;
