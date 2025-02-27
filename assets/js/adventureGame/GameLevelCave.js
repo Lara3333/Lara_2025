@@ -61,6 +61,7 @@ class GameLevelCave {
       hitbox: { widthPercentage: 0.1, heightPercentage: 0.2 },
     };
 
+
     const sprite_src_spider = path + "/images/gamify/spider.png";
     console.log(`Loading NPC sprite from: ${sprite_src_spider}`); // Log image path
     const sprite_data_spider = {

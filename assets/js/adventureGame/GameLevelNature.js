@@ -22,16 +22,16 @@ class GameLevelNature {
         pixels: {height: 597, width: 340}
     };
 
-    const sprite_src_octopus = path + "/images/gamify/you.png"; // be sure to include the path
-    const OCTOPUS_SCALE_FACTOR = 10;
-    const sprite_data_octopus = {
-        id: 'Octopus',
-        greeting: "Hi I am Octopus, the nature wanderer. I am looking for wisdome and adventure!",
-        src: sprite_src_octopus,
-        SCALE_FACTOR: OCTOPUS_SCALE_FACTOR,
+    const sprite_src_you = path + "/images/gamify/you.png"; // be sure to include the path
+    const YOU_SCALE_FACTOR = 5;
+    const sprite_data_you = {
+        id: 'You',
+        greeting: "Hi I am You, the nature wanderer. I am looking for wisdome and adventure!",
+        src: sprite_src_you,
+        SCALE_FACTOR: YOU_SCALE_FACTOR,
         STEP_FACTOR: 1000,
         ANIMATION_RATE: 50,
-        INIT_POSITION: { x: 0, y: height - (height/OCTOPUS_SCALE_FACTOR) }, 
+        INIT_POSITION: { x: 0, y: height - (height/YOU_SCALE_FACTOR) }, 
         pixels: {height: 250, width: 167},
         orientation: { rows: 4, columns: 3 },
       down: { row: 0, start: 0, columns: 3 },
@@ -103,7 +103,7 @@ class GameLevelNature {
     // List of objects definitions for this level
     this.objects = [
       { class: Background, data: image_data_nature },
-      { class: Player, data: sprite_data_octopus },
+      { class: Player, data: sprite_data_you },
       { class: Npc, data: sprite_data_animwizard },
       { class: Exit, data: sprite_data_exit },
     ];

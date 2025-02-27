@@ -30,7 +30,7 @@ class Exit extends Npc {
             if (gameObj.canvas && this != gameObj) {
                 this.isCollision(gameObj);
                 if (this.collisionData.hit && (this.collisionData.touchPoints.other.id == 'Chill Guy'
-                    || this.collisionData.touchPoints.other.id == 'Octopus')
+                    || this.collisionData.touchPoints.other.id == 'You')
                 ) {
                     collisionDetected = true;
                     GameEnv.continueLevel = false;
