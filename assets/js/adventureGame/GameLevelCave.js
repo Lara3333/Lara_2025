@@ -81,6 +81,7 @@ class GameLevelCave {
     console.log(`Loading NPC sprite from: ${sprite_src_exit}`); // Log image path
     const sprite_data_exit = {
       id: 'Exit',
+      greeting: "teleporting...",
       src: sprite_src_exit,
       SCALE_FACTOR: 15,
       ANIMATION_RATE: 50,
@@ -94,7 +95,7 @@ class GameLevelCave {
     const sprite_src_robot = path + "/images/rpg/fishies.png"; // be sure to include the path
     const sprite_data_robot = {
         id: 'Fish',
-        greeting: "Hi I am your game Fish.  I am very happy to share my knowledge with you! \nWant to get out of this cave? You must run fast so the bat wont kill you and make sure you don't get too close to the Spider ;) \nPress key 'e' or 'u' for learning",
+        greeting: "Hi I am the magical Fish.  I am very happy to share my knowledge with you! \nWant to get out of this cave? Talk to the wizard standing by the exit on the right.You must run fast so the bat wont kill you and make sure you don't get too close to the Spider ;)",
         src: sprite_src_robot,
         SCALE_FACTOR: 16,  // Adjust this based on your scaling needs
         ANIMATION_RATE: 100,
@@ -103,7 +104,7 @@ class GameLevelCave {
         orientation: {rows: 8, columns: 12 },
         down: {row: 0, start: 0, columns: 6 },  // This is the stationary npc, down is default 
         hitbox: { widthPercentage: 0.1, heightPercentage: 0.2 },
-        // Linux command quiz
+        // Quiz is irrelevant for Cave Escape game
         quiz: { 
           title: "Wizard Quiz",
           questions: [ "What do you wish to earn today?\n1. Wisdom\n2. Gold\n3. Power\n4. Fame",
