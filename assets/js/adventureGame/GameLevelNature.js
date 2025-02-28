@@ -99,12 +99,71 @@ class GameLevelNature {
         hitbox: { widthPercentage: 0.1, heightPercentage: 0.1},
       };
 
+      const sprite_src_flower = path + "/images/gamify/flower.png";
+      console.log(`Loading NPC sprite from: ${sprite_src_flower}`); // Log image path
+      const sprite_data_flower = {
+        id: 'Flower',
+        src: sprite_src_flower,
+        SCALE_FACTOR: 13,
+        ANIMATION_RATE: 50,
+        pixels: { height: 36, width: 21 },
+        INIT_POSITION: { x: width * 0.70 , y: height * 0.6 },
+        orientation: { rows: 1, columns: 1 },
+        down: { row: 0, start: 0, columns: 1 },
+        hitbox: { widthPercentage: 0.1, heightPercentage: 0.1},
+      };
+
+      const sprite_src_flower2 = path + "/images/gamify/flower.png";
+      console.log(`Loading NPC sprite from: ${sprite_src_flower2}`); // Log image path
+      const sprite_data_flower2 = {
+        id: 'Flower2',
+        src: sprite_src_flower2,
+        SCALE_FACTOR: 13,
+        ANIMATION_RATE: 50,
+        pixels: { height: 36, width: 21 },
+        INIT_POSITION: { x: width * 0.20 , y: height * 0.75 },
+        orientation: { rows: 1, columns: 1 },
+        down: { row: 0, start: 0, columns: 1 },
+        hitbox: { widthPercentage: 0.1, heightPercentage: 0.1},
+      };
+
+      const sprite_src_butterfly = path + "/images/gamify/butterfly.png";
+      console.log(`Loading NPC sprite from: ${sprite_src_butterfly}`); // Log image path
+      const sprite_data_butterfly = {
+        id: 'Butterfly',
+        src: sprite_src_butterfly,
+        SCALE_FACTOR: 13,
+        ANIMATION_RATE: 50,
+        pixels: { height: 24, width: 27 },
+        INIT_POSITION: { x: width * 0.3 , y: height * 0.3 },
+        orientation: { rows: 1, columns: 1 },
+        down: { row: 0, start: 0, columns: 1 },
+        hitbox: { widthPercentage: 0.1, heightPercentage: 0.1},
+      };
+
+      const sprite_src_butterfly2 = path + "/images/gamify/butterfly.png";
+      console.log(`Loading NPC sprite from: ${sprite_src_butterfly2}`); // Log image path
+      const sprite_data_butterfly2 = {
+        id: 'Butterfly2',
+        src: sprite_src_butterfly2,
+        SCALE_FACTOR: 13,
+        ANIMATION_RATE: 50,
+        pixels: { height: 24, width: 27 },
+        INIT_POSITION: { x: width * 0.65 , y: height * 0.2 },
+        orientation: { rows: 1, columns: 1 },
+        down: { row: 0, start: 0, columns: 1 },
+        hitbox: { widthPercentage: 0.1, heightPercentage: 0.1},
+      };
 
     // List of objects definitions for this level
     this.objects = [
       { class: Background, data: image_data_nature },
       { class: Player, data: sprite_data_you },
       { class: Npc, data: sprite_data_animwizard },
+      { class: Npc, data: sprite_data_flower },
+      { class: Npc, data: sprite_data_flower2 },
+      { class: Npc, data: sprite_data_butterfly },
+      { class: Npc, data: sprite_data_butterfly2 },
       { class: Exit, data: sprite_data_exit },
     ];
   }
