@@ -9,6 +9,9 @@ comments: true
 
 <!-- Liquid:  statements -->
 
+<!--Audio for Cave Background music -->
+  <audio id="Mushroom" src="{{site.baseurl}}/assets/audio/Mushroom.mp3" preload="auto"></audio>
+
 <!-- Include submenu from _includes to top of pages -->
 {% include nav/home.html %}
 <!--- Concatenation of site URL to frontmatter image  --->
