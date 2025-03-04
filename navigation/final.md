@@ -18,7 +18,7 @@ title: "Final CSSE 2"
 | Check List and honest self grade       |   yes        |   This checklist is evidence           |
 | Practice review with Ms. Pataki           |   yes       |    We had a practice review on Monday, March 3rd 2025          |
 | Reviewing other classes and taking extreme interest in them               | yes      | view my Retrospective Blog              |
-| All Blogs (Including PBL and JS fundamentals     |         |              |
+| All Blogs (Including PBL and JS fundamentals)     |         |              |
 | Thinking about CompSci in the future              | yes           | I have thought about doing computer science related work in the future, for example: I went to the student panel and wrote a blog about what I learned from it and what I will apply to myself to be successfull in computer science in the future. ![Image](https://github.com/user-attachments/assets/161a5487-01fe-4843-be3d-bbfe622d1251)          |
 | Sending summary of presentation 24 hours prior to Mr. Mort             | yes           | <img width="1406" alt="Image" src="https://github.com/user-attachments/assets/0756d171-0a34-46be-9fc6-18ec5a7b98de" />             |
 | Discussing everything in 3 minutes             | tbd           |              |
