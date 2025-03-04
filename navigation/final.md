@@ -26,6 +26,5 @@ title: "Final CSSE 2"
 | **Skill**                  | **Points**    | **Grade** | **Evidence** |
 |----------------------------|---------------|-----------|--------------|
 | Work Habits (Analytics)    | 1             | 0.9          | <img width="870" alt="Image" src="https://github.com/user-attachments/assets/6d88ca5e-73e6-4ece-9270-c85eafbe3587" /><img width="246" alt="Image" src="https://github.com/user-attachments/assets/ea0d93fa-cc72-4f01-a47c-2930fa02f3ef" /> I would give myself a .9 on my workflow and commits because I have been making changes, making commits, contributing to the game development. However, there is still room for improvement, which is why I gave myself a .9 instead of a 1            |
-| Advocacy                   | 1             |           |              |
 | Beyond Perfunctory Memory  | 1             |           |              |
 | Total                      | 3             |           |              |
