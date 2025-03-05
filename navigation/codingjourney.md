@@ -71,6 +71,9 @@ Thursday 13/02/2025
 
 We had a tech talk about SRP, we also started cleaning up the files in our game.
 
-Friday, 14/02/25
+## Week 22-24
 
-I wrapped up the final changes 
+<img width="1203" alt="Image" src="https://github.com/user-attachments/assets/8d970e00-191a-48cb-9ba4-5ed9ecdb0d49" />
+<img width="1203" alt="Image" src="https://github.com/user-attachments/assets/65dd37fe-fe96-44bc-8301-34e2d316cfe5" />
+<img width="1203" alt="Image" src="https://github.com/user-attachments/assets/9bceeafc-7362-412d-898c-10781916b55d" />
+
