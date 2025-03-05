@@ -6,6 +6,8 @@ The game I chose to review is Anishka's and Elise's game from CSSE 1. This game 
 
 ![Image](https://github.com/user-attachments/assets/1b057d2b-5532-4871-8366-c75fca90f073)
 
+![Image](https://github.com/user-attachments/assets/a7adad06-942c-4fa9-9693-c5de29e6860f)
+
 What immediately caught my attention about the game was its how cute the design looked with the npcs having a spinning idle animation and the space theme. The ability to move in all directions was a good decision since the setting of the game of was set in space. This aspect was particularly striking because in order to beat the game you had to solve puzzles and talk to multiple npcs to win. As someone who appreciates games that include npcs with a purposeful meaning and games that utilize their environment to develop the plot, this was nice to see compared to other games in which the player only has to beat a certain enemy or escape the game to win. This initial impression played a major role in my decision to choose it for my review, as it promised a unique and engaging experience.
 
 ## What I would improve
